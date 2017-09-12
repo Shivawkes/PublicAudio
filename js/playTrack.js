@@ -1,2 +1,2 @@
-var audio = new Audio('path/to/song.mp3');
+var audio = new Audio('../audio/sawsquarenoise_-_02_-_Fire_Darer.mp3');
 audio.play();
