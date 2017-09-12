@@ -13,8 +13,8 @@ class PublicAudioPlugin extends Plugin
   function onPluginVersion(array &$versions)
     {
       $versions[] = array('name' => 'PublicAudio',
-                          'author' => 'London Longenecker',
-                          'rawdescription' => _m('A plugin to play mp3 files when viewing the login page.'));
+                          'author' => 'HeathCliff',
+                          'rawdescription' => _m('A plugin to play mp3 files when viewing the timeline on the login page.'));
       return true;
     }
 }
