@@ -10,4 +10,8 @@ Installation
 Add "addPlugin('PublicAudio');"
 to the bottom of your config.php<br />
 Create an "audio" directory at the / of the GS instance.
-Place desired .mp3 files in that directory.
+Place desired .mp3 files in that directory.<br />
+<br />
+TODO:<br />
+Randomize track selection<br />
+Restrict audio to login page
