@@ -9,3 +9,5 @@ Installation
 ============
 Add "addPlugin('PublicAudio');"
 to the bottom of your config.php
+Create an "audio" directory at the / of the GS instance.
+Place .mp3 files in that directory.
