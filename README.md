@@ -8,6 +8,6 @@ http://freemusicarchive.org/music/sawsquarenoise/OverHeated_Alfa_02/
 Installation
 ============
 Add "addPlugin('PublicAudio');"
-to the bottom of your config.php
+to the bottom of your config.php<br />
 Create an "audio" directory at the / of the GS instance.
-Place .mp3 files in that directory.
+Place desired .mp3 files in that directory.
