@@ -14,4 +14,4 @@ Place desired .mp3 files in that directory.<br />
 <br />
 TODO:<br />
 Randomize track selection<br />
-Restrict audio to login page
+<s>Restrict audio to login page</s>
