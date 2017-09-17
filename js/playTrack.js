@@ -2,11 +2,16 @@ $(document).ready(function() {
   
   if(window.loggedIn === false) {
     
-    var audio = new Audio('../audio/sawsquarenoise_-_02_-_Fire_Darer.mp3');
+    var trackPath = '../audio/',
+        audioFiles = ['.mp3', '.mp3', '.mp3'],
+        i = Math.floor(Math.random()*audioFiles.length);
+        
+    var audio = new Audio(trackPath+audioFiles[i]);
     audio.play();
     
   } else {
     
     audio.pause();
+    
   }
 });
