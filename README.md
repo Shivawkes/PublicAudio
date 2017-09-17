@@ -10,8 +10,7 @@ http://freemusicarchive.org/music/Bryan_Divisions/
 Installation
 ============
 <ul>
-<li>Add "addPlugin('PublicAudio');"</li>
-<li>to the bottom of your config.php</li>
+<li>Add "addPlugin('PublicAudio');" to config.php</li>
 <li>Create an "audio" directory at the / of the GS instance.</li>
 <li>Place desired .mp3 files in that directory.</li>
 <li>Add the file names to the "audioFiles" array in playTrack.js <br />
