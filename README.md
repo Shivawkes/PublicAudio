@@ -3,8 +3,9 @@ A Qvitter plugin designed to randomly select then play an audio track while view
 the timeline on the login page.
 
 Music courtesy of:
-http://freemusicarchive.org/music/sawsquarenoise/OverHeated_Alfa_02/
-
+http://freemusicarchive.org/music/sawsquarenoise/OverHeated_Alfa_02/ <br />
+http://freemusicarchive.org/music/Brakhage/ <br />
+http://freemusicarchive.org/music/Bryan_Divisions/
 
 Installation
 ============
