@@ -5,7 +5,7 @@ if(window.loggedIn === false) {
 
 // randomly select a track from the array
 var path = '../audio/',
-files = ['LeVrai.mp3', 'FireDarer.mp3', 'WhatNow.mp3'],
+files = ['LeVrai.mp3', 'FireDarer.mp3', 'Stars.mp3'],
 i = Math.floor(Math.random()*files.length);
 
 // play the track
